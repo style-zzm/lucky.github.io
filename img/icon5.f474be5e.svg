@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="70" viewBox="0 0 65 70">
+  <g id="组_6" data-name="组 6" transform="translate(2)">
+    <rect id="圆角矩形_8" data-name="圆角矩形 8" width="53.59" height="55.81" rx="8" transform="translate(9.41 14.19)" fill="#3296fa" opacity="0.251"/>
+    <path id="圆角矩形_8_拷贝" data-name="圆角矩形 8 拷贝" d="M42.789,4.73h6.569a8,8,0,0,1,8,8V55.324a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V12.73a8,8,0,0,1,8-8h7.968" fill="none" stroke="#3296fa" stroke-linecap="round" stroke-width="4"/>
+    <g id="圆角矩形_9" data-name="圆角矩形 9" transform="translate(14.09)" fill="none" stroke="#3296fa" stroke-linecap="round" stroke-width="4">
+      <rect width="30.09" height="11.34" rx="4.5" stroke="none"/>
+      <rect x="2" y="2" width="26.09" height="7.34" rx="2.5" fill="none"/>
+    </g>
+    <path id="形状_3" data-name="形状 3" d="M18.718,42.625l8.758,8.97L44.041,36.333" fill="none" stroke="#3296fa" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <rect id="圆角矩形_2_拷贝_8" data-name="圆角矩形 2 拷贝 8" width="16" height="3.78" rx="1.89" transform="translate(13.16 20.81)" fill="#3296fa"/>
+    <rect id="圆角矩形_2_拷贝_9" data-name="圆角矩形 2 拷贝 9" width="16" height="3.78" rx="1.89" transform="translate(13.16 30.28)" fill="#3296fa"/>
+  </g>
+</svg>

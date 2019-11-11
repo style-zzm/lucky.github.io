@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65.002" height="69.005" viewBox="0 0 65.002 69.005">
+  <g id="组_3" data-name="组 3" transform="translate(2)">
+    <path id="圆角矩形_4" data-name="圆角矩形 4" d="M46.939,10h6.593C58.762,10,63,14.538,63,20.136V58.87c0,5.6-4.24,10.136-9.47,10.136H18.47C13.24,69.005,9,64.467,9,58.87V20.136C9,14.538,13.24,10,18.47,10h5.682" fill="#3296fa" opacity="0.251"/>
+    <path id="圆角矩形_4_拷贝" data-name="圆角矩形 4 拷贝" d="M41.094,3H47A10,10,0,0,1,57,13V54A10,10,0,0,1,47,64H10A10,10,0,0,1,0,54V13A10,10,0,0,1,10,3h6" fill="none" stroke="#3296fa" stroke-linecap="round" stroke-width="4"/>
+    <rect id="圆角矩形_2" data-name="圆角矩形 2" width="36" height="4" rx="2" transform="translate(10 44)" fill="#3296fa"/>
+    <rect id="圆角矩形_2_拷贝" data-name="圆角矩形 2 拷贝" width="24" height="4" rx="2" transform="translate(16 32)" fill="#3296fa"/>
+    <rect id="圆角矩形_2_拷贝_5" data-name="圆角矩形 2 拷贝 5" width="4" height="24" rx="2" transform="translate(26)" fill="#3296fa"/>
+    <path id="形状_1" data-name="形状 1" d="M22,15l6,5,6-5" fill="none" stroke="#3296fa" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  </g>
+</svg>

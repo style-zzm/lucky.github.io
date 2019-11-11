@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="68" viewBox="0 0 62 68">
+  <g id="组_2" data-name="组 2" transform="translate(2 2)">
+    <path id="圆角矩形_5" data-name="圆角矩形 5" d="M8,0H43a8,8,0,0,1,8,8V43A14,14,0,0,1,37,57H8a8,8,0,0,1-8-8V8A8,8,0,0,1,8,0Z" transform="translate(9 9)" fill="#3296fa" opacity="0.251"/>
+    <path id="圆角矩形_3_拷贝" data-name="圆角矩形 3 拷贝" d="M20,62H8a8,8,0,0,1-8-8V8A8,8,0,0,1,8,0H48a8,8,0,0,1,8,8V30" fill="none" stroke="#3296fa" stroke-linecap="round" stroke-width="4"/>
+    <rect id="圆角矩形_2" data-name="圆角矩形 2" width="36" height="4" rx="2" transform="translate(10 16)" fill="#3296fa"/>
+    <rect id="圆角矩形_2_拷贝" data-name="圆角矩形 2 拷贝" width="24" height="4" rx="2" transform="translate(10 28)" fill="#3296fa"/>
+    <rect id="圆角矩形_2_拷贝_2" data-name="圆角矩形 2 拷贝 2" width="12" height="4" rx="2" transform="translate(10 40)" fill="#3296fa"/>
+    <g id="椭圆_1" data-name="椭圆 1" transform="translate(31 37)" fill="none" stroke="#3296fa" stroke-width="4">
+      <circle cx="14.5" cy="14.5" r="14.5" stroke="none"/>
+      <circle cx="14.5" cy="14.5" r="12.5" fill="none"/>
+    </g>
+    <rect id="圆角矩形_2_拷贝_3" data-name="圆角矩形 2 拷贝 3" width="8" height="4" rx="2" transform="translate(44 51)" fill="#3296fa"/>
+    <rect id="圆角矩形_2_拷贝_4" data-name="圆角矩形 2 拷贝 4" width="4" height="10" rx="2" transform="translate(44 45)" fill="#3296fa"/>
+  </g>
+</svg>
